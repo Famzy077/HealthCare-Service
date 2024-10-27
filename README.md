@@ -25,11 +25,11 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-  **git clone https://github.com/Famzy077/healthcareservice.git
+     git clone https://github.com/Famzy077/healthcareservice.git
    Navigate to the project directory:
 **
 2. bash
-Insert Code
+** Insert Code
 Edit
 Copy code
 cd healthcareservice
@@ -53,9 +53,6 @@ Usage
 Once the server is running, you can access the API at http://localhost:4005/Api.
 
 Example Requests
-Register a new patient
-
-POST /Api/patients
 Schedule an appointment
 
 POST /Api/appointments
